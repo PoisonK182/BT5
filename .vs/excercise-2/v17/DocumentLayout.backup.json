@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\BaiTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\recovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\recovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\recovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\recovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\infor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\infor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\infor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\infor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\googlebooksresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\googlebooksresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\bookshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\bookshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|c:\\users\\admin\\downloads\\baitap\\excercise-2\\bookinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\bookinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\findbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\findbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\findbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\findbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\bookinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\bookinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125A132-7A01-4AC5-922F-B317F6137087}|excercise-2\\excercise-2.csproj|solutionrelative:excercise-2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 120,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 574,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GoogleBooksResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\GoogleBooksResponse.cs",
+              "RelativeDocumentMoniker": "excercise-2\\GoogleBooksResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\GoogleBooksResponse.cs",
+              "RelativeToolTip": "excercise-2\\GoogleBooksResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:25:12.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\packages.config",
+              "RelativeDocumentMoniker": "excercise-2\\packages.config",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\packages.config",
+              "RelativeToolTip": "excercise-2\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-04T13:25:10.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\Packet.cs",
+              "RelativeDocumentMoniker": "excercise-2\\Packet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\Packet.cs",
+              "RelativeToolTip": "excercise-2\\Packet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:25:08.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\Program.cs",
+              "RelativeDocumentMoniker": "excercise-2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\Program.cs",
+              "RelativeToolTip": "excercise-2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:25:07.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookInfor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\BookInfor.cs",
+              "RelativeDocumentMoniker": "excercise-2\\BookInfor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\BookInfor.cs [Design]",
+              "RelativeToolTip": "excercise-2\\BookInfor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:17:47.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResetPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\ResetPassword.cs",
+              "RelativeDocumentMoniker": "excercise-2\\ResetPassword.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\ResetPassword.cs",
+              "RelativeToolTip": "excercise-2\\ResetPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:23:57.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "infor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\infor.cs",
+              "RelativeDocumentMoniker": "excercise-2\\infor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\infor.cs",
+              "RelativeToolTip": "excercise-2\\infor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:23:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FindBook.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\FindBook.cs",
+              "RelativeDocumentMoniker": "excercise-2\\FindBook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\FindBook.cs",
+              "RelativeToolTip": "excercise-2\\FindBook.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAAApwBUBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:22:49.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\Book.cs",
+              "RelativeDocumentMoniker": "excercise-2\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\Book.cs",
+              "RelativeToolTip": "excercise-2\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:17:54.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\signup.cs",
+              "RelativeDocumentMoniker": "excercise-2\\signup.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\signup.cs [Design]",
+              "RelativeToolTip": "excercise-2\\signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:22:22.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResetPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\ResetPassword.cs",
+              "RelativeDocumentMoniker": "excercise-2\\ResetPassword.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\ResetPassword.cs [Design]",
+              "RelativeToolTip": "excercise-2\\ResetPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:21:59.802Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recovery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\Recovery.cs",
+              "RelativeDocumentMoniker": "excercise-2\\Recovery.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\Recovery.cs",
+              "RelativeToolTip": "excercise-2\\Recovery.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAADgv3kAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:20:25.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recovery.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\Recovery.cs",
+              "RelativeDocumentMoniker": "excercise-2\\Recovery.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\Recovery.cs [Design]",
+              "RelativeToolTip": "excercise-2\\Recovery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:19:57.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\login.cs",
+              "RelativeDocumentMoniker": "excercise-2\\login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\login.cs",
+              "RelativeToolTip": "excercise-2\\login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:19:51.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\login.cs",
+              "RelativeDocumentMoniker": "excercise-2\\login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\login.cs [Design]",
+              "RelativeToolTip": "excercise-2\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:19:36.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "infor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\infor.cs",
+              "RelativeDocumentMoniker": "excercise-2\\infor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\infor.cs [Design]",
+              "RelativeToolTip": "excercise-2\\infor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:19:21.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FindBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\FindBook.cs",
+              "RelativeDocumentMoniker": "excercise-2\\FindBook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\FindBook.cs [Design]",
+              "RelativeToolTip": "excercise-2\\FindBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:18:40.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookShelf.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\BookShelf.cs",
+              "RelativeDocumentMoniker": "excercise-2\\BookShelf.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\BookShelf.cs",
+              "RelativeToolTip": "excercise-2\\BookShelf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:18:34.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookInfor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\BookInfor.cs",
+              "RelativeDocumentMoniker": "excercise-2\\BookInfor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BaiTap\\excercise-2\\BookInfor.cs",
+              "RelativeToolTip": "excercise-2\\BookInfor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:18:25.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
